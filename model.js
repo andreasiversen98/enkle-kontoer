@@ -1,6 +1,6 @@
 const app = document.getElementById("app");
 
-let bankAccount = {
+const bankAccount = {
   name: "Andreas",
   balance: 30000,
 
