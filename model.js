@@ -9,7 +9,6 @@ const bankAccount = {
       alert(
         "Beklager, du har ikke dekning på konto for å ta ut dette beløpet.",
       );
-      return;
     } else {
       this.balance += amount;
     }
